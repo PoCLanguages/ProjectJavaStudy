@@ -3,7 +3,7 @@ package com.gft.java;
 import java.util.HashMap;
 import java.util.Map;
 
-public class HasMaps {
+public class HashMaps {
 
 	public static void main(String[] args) {
 		HashMap<Integer, String> map = new HashMap<Integer, String>();
